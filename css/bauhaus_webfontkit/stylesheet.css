@@ -4,9 +4,9 @@
 
 @font-face {
     font-family: 'bauhaus_93regular';
-    src: url('https://aradicaldreamer.github.io/shape-arcade-website/css/bauhaus_webfontkit/bauhaus93-webfont.woff2') format('woff2'),
-         url('https://aradicaldreamer.github.io/shape-arcade-website/css/bauhaus_webfontkit/bauhaus93-webfont.woff') format('woff'),
-         url('https://aradicaldreamer.github.io/shape-arcade-website/css/bauhaus_webfontkit/bauhaus93-webfont.ttf') format('ttf');
+    src: url('/css/bauhaus_webfontkit/bauhaus93-webfont.woff2') format('woff2'),
+         url('/css/bauhaus_webfontkit/bauhaus93-webfont.woff') format('woff'),
+         url('/css/bauhaus_webfontkit/bauhaus93-webfont.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 
