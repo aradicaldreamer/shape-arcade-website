@@ -16,8 +16,10 @@ footer: Matthew Deline, Campervan Games
 social:
   - title: twitter
     url: https://twitter.com/mattdeline
-  # - title: facebook
-  #   url:
+  - title: facebook
+    url: https://facebook.com/campervangames
+  - title: instagram
+    url: https://instagram.com/campervangames
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket
